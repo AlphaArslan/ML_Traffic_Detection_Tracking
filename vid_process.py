@@ -15,9 +15,9 @@ INPUT=      "input/video/input.mp4"
 CSV_FILE=	"det_results/detections.csv"
 OUTPUT=     "output/output.avi"
 YOLO_DIR=   "yolo-coco"
-CONFIDENCE=  0.5
+CONFIDENCE=  0.7
 THRESHOLD=   0.3
-ALLOWED_CLASS=  [2, 5, 7, 9, 11, 12]
+ALLOWED_CLASS=  [2, 3, 5, 7, 9, 11, 12]
 
 
 ########################## Init
