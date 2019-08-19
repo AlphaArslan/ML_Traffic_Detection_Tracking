@@ -1,0 +1,4 @@
+# Ignore everything in this directory
+yolov3.weights
+# Except this file
+!.gitignore
