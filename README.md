@@ -1,6 +1,6 @@
 # recognizing vehicles and traffic signs and tracking them
 <p align="center">
-  <img width="1080" height="720" src="https://github.com/AlphaArslan/ML_Traffic_Detection_Tracking/blob/master/demo.gif">
+  <img width="800" height="512" src="https://github.com/AlphaArslan/ML_Traffic_Detection_Tracking/blob/master/demo.gif">
 </p>
 
 ## Table of contents  
