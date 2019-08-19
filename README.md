@@ -1,5 +1,5 @@
 # recognizing vehicles and traffic signs and tracking them
-![demo.mp4](demo.mp4)
+![demo.gif](demo.gif)
 
 ## Citation
 
