@@ -49,7 +49,7 @@ Run
 It will output:
 * processed images (images with boxes and text) in _output_.
 * in _det_results/_, text file for each image containing detected classes  in this format:
-> classID  confidence  right  top  left  bottom  
+> classID  confidence  left  top  right  bottom  
 
 <p></p>
 
